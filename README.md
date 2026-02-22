@@ -52,7 +52,12 @@ This extension was created for GNOME 42 and later, but was backward-compatible. 
 
 This extension was updated to support the latest versions of GNOME Shell.
 
-Supported GNOME shell versions are: GNOME shell 46, 47, 48, 49
+Supported GNOME shell versions are: GNOME shell 
+- 46
+- 47
+- 48
+- 49
+
 
 
 ## License
